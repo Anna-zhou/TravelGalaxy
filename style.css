@@ -24,7 +24,7 @@ a:hover {
   color: #FFC977 !important;
 }
 #top-main {
-  background-image: url(/Images/main\ page.jpg);
+  background-image: url(/images/main\ page.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -122,7 +122,7 @@ input {
   background-color: #010D1B;
 }
 #planet-page {
-  background-image: url(/Images/planet-bg-3.png);
+  background-image: url(/images/planet-bg-3.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -132,7 +132,7 @@ input {
   width: 4vw;
 }
 #spaceship-page {
-  background-image: url(/Images/spaceship\ bg.jpg);
+  background-image: url(/images/spaceship\ bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
